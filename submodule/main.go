@@ -1,5 +1,7 @@
-package main
+package submodule
 
-func main() {
-	println("hello from submodule")
+import "fmt"
+
+func PrintHello() {
+	fmt.Println("hello from submodule")
 }
