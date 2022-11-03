@@ -1,4 +1,4 @@
-module go.lunarway.com/renovate-submodules
+module github.com/lunarway/go-renovate-submodules
 
 go 1.18
 
